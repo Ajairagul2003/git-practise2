@@ -2,7 +2,7 @@
 // You can expand this later with form handling or interactive features.
 
 // Display a simple welcome message in the console
-console.log("Portfolio loaded successfully.");
+console.log("Portfolio are loaded successfully.");
 
 // Example: Smooth scroll for navigation links
 const links = document.querySelectorAll('nav a');
